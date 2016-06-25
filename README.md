@@ -1,4 +1,4 @@
-For Gingerbread instructions please check [this page](https://github.com/lajonss/android_packages_apps_GmsCore/wiki).
+For Gingerbread instructions please check [this page](https://github.com/lajonss/android_packages_apps_GmsCore/wiki/Gingerbread-installation).
 
 ---
 
