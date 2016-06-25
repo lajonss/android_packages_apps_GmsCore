@@ -153,7 +153,7 @@ public class PlacePickerActivity extends AppCompatActivity implements Map.Update
         super.onCreateOptionsMenu(menu);
         MenuInflater inflater = getMenuInflater();
         inflater.inflate(R.menu.pick_place, menu);
-        SearchView searchView = (SearchView) menu.findItem(R.id.menu_action_search).getActionView();
+        //SearchView searchView = (SearchView) menu.findItem(R.id.menu_action_search).getActionView();
         // TODO: search
         return true;
     }
